@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+undetected-chromedriver
+selenium
+sqlalchemy
+sqlite
+python-multipart
