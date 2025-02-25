@@ -5,3 +5,4 @@ undetected-chromedriver
 selenium
 sqlalchemy
 python-multipart
+setuptools==58.2.0
